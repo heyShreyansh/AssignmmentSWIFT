@@ -191,7 +191,7 @@ Output: 5 high-resolution PNG charts in current directory
 ## 📈 Visualizations Gallery
 
 ### 1. Transit Time Distribution
-![Transit Time Distribution](visualizations/transit_time_distribution.png)
+![Transit Time Distribution](transit_time_distribution.png)
 
 **Insights:**
 - Right-skewed distribution with median at 97.24 hours
@@ -200,7 +200,7 @@ Output: 5 high-resolution PNG charts in current directory
 - Single extreme outlier at 545 hours (Thanjavur delivery)
 
 ### 2. Geographic Performance Analysis
-![State Performance](visualizations/avg_transit_time_by_state.png)
+![State Performance](avg_transit_time_by_state.png)
 
 **Insights:**
 - Goa (GA) highest at 223.80h (n=1, limited sample)
@@ -209,7 +209,7 @@ Output: 5 high-resolution PNG charts in current directory
 - Karnataka (origin hub): 96.48h average (n=86, most volume)
 
 ### 3. Facility Touchpoints Distribution
-![Facility Distribution](visualizations/facility_touchpoints_distribution.png)
+![Facility Distribution](facility_touchpoints_distribution.png)
 
 **Insights:**
 - 82 shipments visited 3 facilities (82.8%)
@@ -218,7 +218,7 @@ Output: 5 high-resolution PNG charts in current directory
 - No shipments with 4+ facilities (efficient routing)
 
 ### 4. Transit Time vs Facilities Correlation
-![Correlation Analysis](visualizations/transit_time_vs_facilities.png)
+![Correlation Analysis](transit_time_vs_facilities.png)
 
 **Insights:**
 - Near-zero correlation (-0.002) between facilities and transit time
@@ -227,7 +227,7 @@ Output: 5 high-resolution PNG charts in current directory
 - Outliers appear at both 2-facility and 3-facility levels
 
 ### 5. Delivery Performance Dashboard
-![Performance Dashboard](visualizations/delivery_performance_dashboard.png)
+![Performance Dashboard](delivery_performance_dashboard.png)
 
 **4-Panel Insights:**
 - **Delivery Success**: 84.85% first-attempt, 15.15% multiple attempts
